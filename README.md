@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Eduleb - Education HTML Template
 #### Preview
 
@@ -23,3 +24,6 @@ Design and code is completely written by Bestwpware and development team.
  - Design and Code is Copyright &copy; <a href="https://bestwpware.com/" target="_blank">Bestwpware</a>
  - Licensed cover under [MIT]
  - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+=======
+# hello-world
+>>>>>>> 64aff381861102e928440bede1e189f503b103ca
